@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleTest</string>
+
+    // Main Activity
+    <string name="activity_search_text">Search Name</string>
+    <string name="activity_unable_to_connect">Unable to connect server \nPlease try later.</string>
+    <string name="activity_no_data">No Data to display</string>
+    <string name="activity_internal_error">Internal server error \nPlease try later.</string>
+
+</resources>
